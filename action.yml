@@ -1,0 +1,6 @@
+name: My docker action
+description: Docker action to debug
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
